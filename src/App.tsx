@@ -11,7 +11,7 @@ import {
 
 const BACKEND_URL = window.location.hostname === 'localhost' 
   ? 'https://collabify-ok.onrender.com' 
-  : 'https://cooolllaaabify.netlify.app/';
+  : 'https://collabify-ok.onrender.comgit add';
 
 export default function App() {
   const [currentUser, setCurrentUser] = useState<User | null>(null);
