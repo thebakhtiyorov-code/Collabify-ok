@@ -10,7 +10,7 @@ import {
 } from 'lucide-react';
 
 const BACKEND_URL = window.location.hostname === 'localhost' 
-  ? 'http://localhost:3000' 
+  ? 'https://collabify-ok.onrender.com' 
   : 'https://cooolllaaabify.netlify.app/';
 
 export default function App() {
