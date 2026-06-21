@@ -1,0 +1,6 @@
+{
+  "name": "Collabify",
+  "description": "A B2B Freelance Market and Project Management Platform connecting businesses and digital freelancers with real-time job feeds, proposal submissions, client dashboards, and secure chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
